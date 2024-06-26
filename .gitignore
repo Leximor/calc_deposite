@@ -1,0 +1,23 @@
+
+requirements
+.pybuild/
+.flake8
+.isort.cfg
+.black
+.pre-commit-config.yaml
+pre-commit
+
+**/__pycache__/
+
+.dvenv/
+dvenv/
+venv/
+.venv/
+.env
+setup.cfg
+.mypy_cache/
+pyrightconfig.json
+.tox/
+config copy json.txt
+.vscode
+.pytest_cache
